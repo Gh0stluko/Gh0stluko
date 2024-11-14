@@ -1,4 +1,4 @@
-# 👋 Привіт! I'm [Your Name]!
+# 👋 Привіт! I'm Cwertkas!
 
 I'm a full-stack developer with a knack for **Django** and **Next.js**, blending backend and frontend to create seamless user experiences. My work spans everything from **e-commerce** to **social media platforms**, all with high performance and scalability at the forefront.
 
@@ -10,14 +10,14 @@ I'm a full-stack developer with a knack for **Django** and **Next.js**, blending
 - 🛠️ **Tools & Projects**:
     - 🐶 **Petopia Store**: An e-commerce project for pet lovers
     - 🎵 **Beats Platform**: A platform similar to BeatStars, custom-built for sharing beats
-    - 🌆 **AI Content Moderation**: Developing tools to detect inappropriate content in images
+
 
 ---
 
 ## ⚡ Current Projects
 
 ✨ Building an **e-commerce platform** with Django REST and Next.js.  
-✨ Crafting a **Google Chrome audio equalizer extension** with JavaScript.
+ - 🌆 **AI Content Moderation**: Developing tools to detect inappropriate content in images
 
 ---
 
@@ -36,9 +36,8 @@ I'm a full-stack developer with a knack for **Django** and **Next.js**, blending
 
 ## 🛠️ Fun Projects & Interests
 
-🎮 **Gaming** on Linux  
-🖌️ **3D Graphics** and **Photo Editing**  
-📹 Building tools like **OBS** for custom media streaming
+🎮 **Gaming** on windows
+🎵 **Music** making  
 
 ---
 
@@ -57,10 +56,7 @@ I'm a full-stack developer with a knack for **Django** and **Next.js**, blending
 ### 📫 Let's Connect!
 
 <p>
-    <a href="https://www.linkedin.com/in/YourLinkedIn/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:gluko.official@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
