@@ -41,18 +41,6 @@ I'm a full-stack developer with a knack for **Django** and **Next.js**, blending
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect!
 
 <p>
