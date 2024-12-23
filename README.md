@@ -4,12 +4,12 @@ I'm a full-stack developer with a knack for **Django** and **Next.js**, blending
 
 ## 🚀 About Me
 
-- 💻 **Backend Focus**: Python | Django REST | PostgreSQL
-- 🌐 **Frontend Expertise**: Next.js | React | shadcn components
-- 📦 **Infrastructure**: Docker | Nginx | AWS
-- 🛠️ **Tools & Projects**:
-    - 🐶 **Petopia Store**: An e-commerce project for pet lovers
-    - 🎵 **Beats Platform**: A platform similar to BeatStars, custom-built for sharing beats
+- **Backend Focus**: Python | Django REST | PostgreSQL
+- **Frontend Expertise**: Next.js | React | shadcn components
+- **Infrastructure**: Docker | Nginx | AWS
+- **Tools & Projects**:
+    - **Petopia Store**: An e-commerce project for pet lovers
+    - **Beats Platform**: A platform similar to BeatStars, custom-built for sharing beats
 
 
 ---
