@@ -1,50 +1,56 @@
-# 👋 Привіт! I'm Cwertkas!
+## I'm Gluko
 
-I'm a full-stack developer with a knack for **Django** and **Next.js**, blending backend and frontend to create seamless user experiences. My work spans everything from **e-commerce** to **social media platforms**, all with high performance and scalability at the forefront.
+## 💻 Full-Stack Developer with Backend Focus
 
-## 🚀 About Me
+```
+I use Arch btw
+```
 
-- 💻 **Backend Focus**: Python | Django REST | PostgreSQL
-- 🌐 **Frontend Expertise**: Next.js | React | shadcn components
-- 📦 **Infrastructure**: Docker | Nginx | AWS
-- 🛠️ **Tools & Projects**:
-    - 🐶 **Petopia Store**: An e-commerce project for pet lovers
-    - 🎵 **Beats Platform**: A platform similar to BeatStars, custom-built for sharing beats
+### 🚀 My Skills
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🧰 Technical Profile
+
+- 🔧 **Backend Development**: Python, FastAPI, Django, Celery
+- 🌐 **Frontend**: React, Next.js
+- 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB
+- 🐳 **DevOps**: Docker, containerization
+- 🔄 **API**: Development and integration of RESTful APIs
+- 🐧 **Operating Systems**: Arch Linux
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gh0stluko&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stluko&layout=compact&theme=radical)
+
+### 💼 Experience
+
+- ⚙️ 3+ years of programming
+- 🔨 Building full-stack web applications
+- 🧠 Server-side logic and API development
+- 🛠️ Working with various database systems
+
+### 🔍 Currently Learning
+
+- 🌱 Deepening knowledge in DevOps practices
+- 📚 Expanding experience in container orchestration
+- 🔬 Improving architectural patterns
 
 ---
 
-## ⚡ Current Projects
+*✨ Looking for interesting projects to collaborate on and develop my skills ✨*
 
-✨ Building an **e-commerce platform** with Django REST and Next.js.  
- - 🌆 **AI Content Moderation**: Developing tools to detect inappropriate content in images
-
----
-
-### 💼 Tech Stack
-
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 🛠️ Fun Projects & Interests
-
-🎮 **Gaming** on windows
-🎵 **Music** making  
-
----
-
-### 📫 Let's Connect!
-
-<p>
-    <a href="mailto:gluko.official@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-</p>
+<!-- Don't forget to replace "YOUR_USERNAME" with your actual GitHub username for the stats to display correctly -->
