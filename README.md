@@ -2,6 +2,8 @@
 
 ## 💻 Full-Stack Developer with Backend Focus
 
+DEV OF PROJECT https://anihub.in.ua/
+
 ```
 I use Arch btw
 ```
